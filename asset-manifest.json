@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.90acd73b.css",
-    "main.js": "/your-repo-name/static/js/main.610b3b43.js",
-    "static/js/453.19248072.chunk.js": "/your-repo-name/static/js/453.19248072.chunk.js",
-    "static/media/paper-bg.jpg": "/your-repo-name/static/media/paper-bg.08592b85b71759b93496.jpg",
-    "index.html": "/your-repo-name/index.html",
-    "main.90acd73b.css.map": "/your-repo-name/static/css/main.90acd73b.css.map",
-    "main.610b3b43.js.map": "/your-repo-name/static/js/main.610b3b43.js.map",
-    "453.19248072.chunk.js.map": "/your-repo-name/static/js/453.19248072.chunk.js.map"
+    "main.css": "/Shoping-Notes-Web/static/css/main.f64dc09f.css",
+    "main.js": "/Shoping-Notes-Web/static/js/main.a7b8a379.js",
+    "static/js/453.19248072.chunk.js": "/Shoping-Notes-Web/static/js/453.19248072.chunk.js",
+    "static/media/paper-bg.jpg": "/Shoping-Notes-Web/static/media/paper-bg.08592b85b71759b93496.jpg",
+    "index.html": "/Shoping-Notes-Web/index.html",
+    "main.f64dc09f.css.map": "/Shoping-Notes-Web/static/css/main.f64dc09f.css.map",
+    "main.a7b8a379.js.map": "/Shoping-Notes-Web/static/js/main.a7b8a379.js.map",
+    "453.19248072.chunk.js.map": "/Shoping-Notes-Web/static/js/453.19248072.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90acd73b.css",
-    "static/js/main.610b3b43.js"
+    "static/css/main.f64dc09f.css",
+    "static/js/main.a7b8a379.js"
   ]
 }
